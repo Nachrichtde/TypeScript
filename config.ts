@@ -5,7 +5,7 @@ export const debug = false
 export const internal = {
   token: 'Token',
   prefix: '.',
-  mongoURI: 'mongodb+srv://Noir:pDU-eHX-2Mg-qjB@noir.bc8nq.mongodb.net/Data',
+  mongoURI: 'Mongo',
   prefixes: {
     clans: '/'
   }
