@@ -3,7 +3,7 @@ import { Intents, Permissions } from 'discord.js'
 export const debug = false
 
 export const internal = {
-  token: 'OTExMjgxMzA0MDUyNTg0NTA5.YZfG2Q.Ml-4nefvF5PKx9ZQiWns8q9gUfc',
+  token: 'Token',
   prefix: '.',
   mongoURI: 'mongodb+srv://Noir:pDU-eHX-2Mg-qjB@noir.bc8nq.mongodb.net/Data',
   prefixes: {
